@@ -1,0 +1,6 @@
+streamlit
+pyttsx3
+transformers
+torch
+soundfile
+TTS
